@@ -66,11 +66,11 @@ StreamShield is intentionally lightweight and local-first.
 
 ## Version
 
-Current release: `1.0.0`
+Current release: `1.0.1-alpha`
 
 ## Status
 
-`v1.0.0` is the first public version. The extension is already usable and stable for real-world browsing and streaming, with some edge cases still open for future refinement, especially around geo-data detection on unusual layouts.
+`v1.0.1-alpha` includes recent fixes and remains under active review before a more stable release.
 
 ## License
 
